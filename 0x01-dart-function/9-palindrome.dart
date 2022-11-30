@@ -5,7 +5,7 @@ if (s.length < 3)
 
   String nReverse = "";
 
-  for (var index = s.length - 1; idx >= 0; index--) {
+  for (var index = s.length - 1; index >= 0; index--) {
     nReverse += s[index];
   }
   if (nReverse == s)
